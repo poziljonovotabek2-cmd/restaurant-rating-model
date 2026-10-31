@@ -1,0 +1,30 @@
+{
+  "rows": 9542,
+  "train_rows": 7633,
+  "test_rows": 1909,
+  "sha256": "f1a268f63816fc3e7dad785a0e3e09a17a9db322a199a31446076f6f1906426c",
+  "sklearn": "1.8.0",
+  "features": [
+    "Average Cost for two",
+    "Price range",
+    "Longitude",
+    "Latitude",
+    "Country Code",
+    "City",
+    "Cuisines",
+    "Currency",
+    "Has Table booking",
+    "Has Online delivery",
+    "Is delivering now",
+    "Locality"
+  ],
+  "cv_accuracy_mean": 0.5971484017265456,
+  "cv_accuracy_std": 0.014045772225700666,
+  "cv_macro_f1_mean": 0.4230922031582735,
+  "cv_balanced_accuracy_mean": 0.4154118380944819,
+  "test_accuracy": 0.5762179151388162,
+  "test_correct": 1100,
+  "test_macro_f1": 0.4214013571074877,
+  "test_balanced_accuracy": 0.4121186456556214,
+  "test_baseline_accuracy": 0.391304347826087
+}
